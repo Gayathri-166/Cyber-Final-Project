@@ -1,0 +1,6 @@
+streamlit
+pandas
+python-nmap
+shodan
+matplotlib
+sqlalchemy

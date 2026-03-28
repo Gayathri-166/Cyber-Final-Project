@@ -1,0 +1,16 @@
+# Cyber Risk Assessment System
+
+## Overview
+This project is a web-based vulnerability scanner that detects security issues, evaluates risk, and sends alerts.
+
+## Features
+- Network vulnerability scanning using Nmap
+- Risk scoring and severity classification
+- Interactive dashboard (Streamlit)
+- Email alert system for high/critical issues
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
